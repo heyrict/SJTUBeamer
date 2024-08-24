@@ -25,7 +25,11 @@
 \@ifclassloaded{ctexbeamer}{\ExecuteOptionsBeamer{zh}}{
   \ExecuteOptionsBeamer{en}}
 \ProcessOptionsBeamer
-\defbeamertemplate*{logo}{max}{\resizebox{!}{1cm}{\sjtubadge}}
+\defbeamertemplate*{logo}{max}{
+    \resizebox{!}{1cm}{\renjibadge}
+    \resizebox{!}{1cm}{\jatbadge}
+    \resizebox{!}{1cm}{\sjtubadge}
+}
 \if\EqualOption{cover}{lang}{zh}
   \defbeamertemplate*{logo}{default}{\resizebox{!}{0.7cm}{\zhlogo}}
 \else

@@ -10,6 +10,8 @@ SJTUBeamer 是上海交通大学的非官方 Beamer 模版。您可以使用 SJT
 
 这个仓库中包含 SJTUBeamer 所使用的宏包 `sjtubeamer`，以及一个示例文档。
 
+**修改说明: 本 fork 经修改增加了上海交通大学医学院及部分附属单位的徽标**
+
 ## 快速上手 👋
 
 目前的 `main.tex` 是一个示例文档《如何使用 LaTeX 排版论文》。您可以将里面的内容替换掉。下面是一个最简示例：
@@ -202,4 +204,4 @@ SJTUBeamer 仓库同时包含 SJTUBeamer 包和一个示例文档。其中内容
 
 * SJTUBeamer 包使用的许可证为 Apache-2.0。
 * SJTUBeamer 示例文档使用 CC-BY-SA 4.0 许可。
-* sjtuvi 和 sjtucover 库及其附属徽标、图片由上海交通大学持有版权。校属各单位及个人以经营为目的使用视觉形象识别系统，须向学校申请使用许可。校外单位及个人未经许可，不得制作或使用载有视觉形象识别系统的物品。您可以在 [vi.sjtu.edu.cn](https://vi.sjtu.edu.cn/index.php/articles/bulletin/16) 阅读许可协议。
+* sjtuvi 和 sjtucover 库及其附属徽标、图片由上海交通大学及附属单位持有版权。校属各单位及个人以经营为目的使用视觉形象识别系统，须向学校及相应附属单位申请使用许可。校外单位及个人未经许可，不得制作或使用载有视觉形象识别系统的物品。您可以在 [vi.sjtu.edu.cn](https://vi.sjtu.edu.cn/index.php/articles/bulletin/16) 阅读上海交通大学视觉形象识别系统许可协议。
